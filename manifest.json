@@ -1,286 +1,259 @@
 {
-  "source_workbook": "/Users/spr/.hermes/cache/documents/doc_4cc88c5ce21d_torbasiz-supurge (1).xlsx",
-  "sheet": "Ürünlerinizi Burada Listeleyin",
   "count": 23,
-  "excel_model_order_match": true,
-  "all_1200x1800_rgb": true,
-  "unique_sha": 23,
+  "source": "GPT Image 2 fast batch",
   "items": [
     {
       "model": "FC9749-07",
       "file": "FC9749-07_G1_GPTImage2.jpg",
+      "sha256": "09513f7c407da01c95c5ab2473d71cdc4d1872d4493eebf5271d53eb7e0a37c8",
+      "bytes": 422587,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 453338,
-      "sha256": "dadc71476bcae54e6cdfa73a4e263f2e2c739a93779f025b598964e87882030b",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "FC9331-07",
       "file": "FC9331-07_G1_GPTImage2.jpg",
+      "sha256": "1f3a2429beaf9e8d486bad77ee38691cd8c7dcb35fa5e2495c8a64dfd2cdc14c",
+      "bytes": 395657,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 551478,
-      "sha256": "e6b812a0fd706576b2448a8ad09b28222f4bb6e6dd476a6757cc1145c2db9651",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB7151-07",
       "file": "XB7151-07_G1_GPTImage2.jpg",
+      "sha256": "6c38aa3f0c527ce3789993f9114b58dcac217210f2e06aefed328f8d7791eb71",
+      "bytes": 428645,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 489762,
-      "sha256": "a3e6d939d07553a49e36bb7b69372d60d8550a466ff7160abf62e37e588a2e36",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9185-07",
       "file": "XB9185-07_G1_GPTImage2.jpg",
+      "sha256": "b3647ac225c66eb5a40730182ac25e881f43120fb8fba96b1d99f1848925c8fd",
+      "bytes": 402651,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 410455,
-      "sha256": "d23621df99684567e3d9f16cfb606f818ca9dc9abc3ea95363c6701fb65c2242",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB2123-09",
       "file": "XB2123-09_G1_GPTImage2.jpg",
+      "sha256": "2b9c2cffe90040bc44052a510048054736b1c87c33931d0304c743d18becdcf5",
+      "bytes": 370385,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 382648,
-      "sha256": "2b04acb90cfef743044d3b1515535cc6bc193272cb692a3cf1d20ac3974dc603",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9125-07",
       "file": "XB9125-07_G1_GPTImage2.jpg",
+      "sha256": "0953f83e11286adab9272ec349cd17793169a8e13b24bd5c689a977952ae7e69",
+      "bytes": 399700,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 419248,
-      "sha256": "7698c72506b785f4eb12e9ff47e97a5d0136f764efc3d7cc1d182ebc964de188",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB7150-07",
       "file": "XB7150-07_G1_GPTImage2.jpg",
+      "sha256": "7e019baf76f372c52a48cae45cdbd3cb5703f3f84fa2216acf90fbb828bc3e3e",
+      "bytes": 388385,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 374822,
-      "sha256": "5d05038ea5b096d8e49f6b4f010dbd5b21557526a920cc9154a453aeeeddc9e1",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9155-07",
       "file": "XB9155-07_G1_GPTImage2.jpg",
+      "sha256": "67cdd5afad06c67f20cf72a990188d42ff69672af2e252a92785cc03da28aaa6",
+      "bytes": 423615,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 400681,
-      "sha256": "930c3d6d767289d4f8b5a17af93b875fc719c1106a5c5c139c9306450102bff8",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGS7POW2",
       "file": "BGS7POW2_G1_GPTImage2.jpg",
+      "sha256": "116cacdc71846d0a096647413f00b7ea15023a79b2610df633811a479c07d47b",
+      "bytes": 479022,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 545100,
-      "sha256": "f6ff989447105115166c845d7cb84f9b1a66baeca3f1b9d9b415d037381f874d",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB2142-HDA150",
       "file": "XB2142-HDA150_G1_GPTImage2.jpg",
+      "sha256": "78c37821252e1e0a180c8134652366ceb2be418be43f290392763ad90dfd8ef6",
+      "bytes": 275617,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 457044,
-      "sha256": "9e572922b68657032f5ce1a1e13280cfd1392cc449308a008ef150410280853e",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGS41POW2",
       "file": "BGS41POW2_G1_GPTImage2.jpg",
+      "sha256": "317f30452dcf5b9530674c7f5f5a5d5cd22059e0b1b6f2443df54e4071193dd8",
+      "bytes": 450507,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 505805,
-      "sha256": "a52bc8551d11d63d0f2ded42a55deecb29c1237cddf42676ebd9c1f13b6493ce",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9145-07",
       "file": "XB9145-07_G1_GPTImage2.jpg",
+      "sha256": "ad46f969737878f5af7dcd5572379dd548d6844c68c6fa98585fbcf3f93d384c",
+      "bytes": 390188,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 557639,
-      "sha256": "ba5ab1480957469aac37800da11c6dc561881b24c58c9217c7659a3b934d8312",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "FC9332-07",
       "file": "FC9332-07_G1_GPTImage2.jpg",
+      "sha256": "bb3d3f3708c1cefc06051568ed39f90677769c61d17a2a32a9370435b5151252",
+      "bytes": 409277,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 526952,
-      "sha256": "439a099ca0056da976f29ffa866cadf333ab8c2f8fa27caa0a3e5c6e6b7dc384",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "VC07T357MHB",
       "file": "VC07T357MHB_G1_GPTImage2.jpg",
+      "sha256": "08fb8efbe69763c8aef2ab14e7439ce3fad1e6f869abb7c5b745b145712c3275",
+      "bytes": 348760,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 516489,
-      "sha256": "821c53230182a4d40c52dcc29fc8b50e3ce4ac9a38e3a4e74efdc76c49825431",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGC21POW1",
       "file": "BGC21POW1_G1_GPTImage2.jpg",
+      "sha256": "b85d83e437a8704506c43387de5d195702404be6a003dbf212335cb95660d334",
+      "bytes": 473304,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 523528,
-      "sha256": "83a6fbde4912b20d63619cf54b442b4d749fa9bb857d8cccf7cc037a8d33ebfa",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGC41Q69",
       "file": "BGC41Q69_G1_GPTImage2.jpg",
+      "sha256": "bdab812d4a24a72bc3e084524a4e8e4eb8658d4bea63a5d634ea0157f1271bc8",
+      "bytes": 463261,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 576607,
-      "sha256": "5d888d667c3f46667f356087f87d64e2a2d1e0c50ed7f9311800d9a21b3520d2",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGS41HYG1",
       "file": "BGS41HYG1_G1_GPTImage2.jpg",
+      "sha256": "c4906d9e11b39c42f7e9f5882ed53a378c974139fb0366a7757db6c15d7e58d1",
+      "bytes": 480505,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 518068,
-      "sha256": "8e64847ed4e71d041451910b968609c78e78287f59f4e73d06ff96785ab0f93c",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGS7SIL1",
       "file": "BGS7SIL1_G1_GPTImage2.jpg",
+      "sha256": "d5e735dcd1c1f6212031c734099b85840ae5ee78bea79207b2c308828ee8a725",
+      "bytes": 457096,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 461978,
-      "sha256": "0ccbdd8762ae87572ac8dc44015daafce163df8ad482d2f8421b6bcf94a22ef4",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGC41PET",
       "file": "BGC41PET_G1_GPTImage2.jpg",
+      "sha256": "517b29dc2fe5eb3ec9f21f55e3af48c5cec126fabb8528b5c4de3ce624d206a4",
+      "bytes": 521437,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 490399,
-      "sha256": "8558f9457a4692e1cc621f9b3af712ef49ebca74ab09dc4a836bb1fcd4fd1d38",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGLS4PET2",
       "file": "BGLS4PET2_G1_GPTImage2.jpg",
+      "sha256": "f3870289a920b420aa0133341a2ffa82d991713f97ff7af204f13f23b70052f3",
+      "bytes": 496714,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 606587,
-      "sha256": "3030e1876b697f64961e2241aaf16b50139aafce26b8a8e1485f2e5b9f78ea4e",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "BGS7PET",
       "file": "BGS7PET_G1_GPTImage2.jpg",
+      "sha256": "e99221d8c3f0b8f52d2e46314bb06db1b7f6ca59429303a1b43f68e97cc868ad",
+      "bytes": 520327,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 475838,
-      "sha256": "2fbc7edcdbf42774608b8eb6762a8d436d6d983e80fbbb9607a30d383256f2bb",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9125-MT",
       "file": "XB9125-MT_G1_GPTImage2.jpg",
+      "sha256": "4ea156bab69967ea34e80bde05608d8e8c6a0d54b060e1e0de7bd35a59b4b5c3",
+      "bytes": 414481,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 532196,
-      "sha256": "702141e063f046977ab89381bd4820e8683a67f77e6c07952578e515fbdb47b9",
-      "qa": "PASS"
+      "mode": "RGB"
     },
     {
       "model": "XB9125-CM-MT",
       "file": "XB9125-CM-MT_G1_GPTImage2.jpg",
+      "sha256": "188e87183f457d8b9e85353960600c014f5a099dade95030f6c2dabd56e9a835",
+      "bytes": 428989,
       "size": [
         1200,
         1800
       ],
-      "mode": "RGB",
-      "bytes": 454896,
-      "sha256": "1b950fa8672b6fcab026eec9be2e80278e8b20d58ba29fd03a4563d4795f3def",
-      "qa": "PASS"
+      "mode": "RGB"
     }
   ]
 }
