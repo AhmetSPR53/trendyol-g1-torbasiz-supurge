@@ -1,0 +1,353 @@
+{
+  "count": 23,
+  "verified": 23,
+  "failed": [],
+  "all_http_200_jpeg_1200x1800_sha_match": true,
+  "results": [
+    {
+      "model": "FC9749-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/FC9749-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 422587,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "FC9331-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/FC9331-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 395657,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB7151-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB7151-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 428645,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9185-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9185-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 402651,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB2123-09",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB2123-09_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 370385,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9125-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9125-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 399700,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB7150-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB7150-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 388385,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9155-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9155-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 423615,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGS7POW2",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGS7POW2_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 479022,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB2142-HDA150",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB2142-HDA150_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 275617,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGS41POW2",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGS41POW2_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 450507,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9145-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9145-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 390188,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "FC9332-07",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/FC9332-07_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 409277,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "VC07T357MHB",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/VC07T357MHB_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 348760,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGC21POW1",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGC21POW1_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 473304,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGC41Q69",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGC41Q69_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 463261,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGS41HYG1",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGS41HYG1_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 480505,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGS7SIL1",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGS7SIL1_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 457096,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGC41PET",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGC41PET_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 521437,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGLS4PET2",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGLS4PET2_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 496714,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "BGS7PET",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/BGS7PET_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 520327,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9125-MT",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9125-MT_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 414481,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    },
+    {
+      "model": "XB9125-CM-MT",
+      "url": "https://raw.githubusercontent.com/AhmetSPR53/trendyol-g1-torbasiz-supurge/main/g1/XB9125-CM-MT_G1_GPTImage2.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 428989,
+      "size": [
+        1200,
+        1800
+      ],
+      "mode": "RGB",
+      "sha_match": true,
+      "ok": true,
+      "attempt": 1
+    }
+  ]
+}
